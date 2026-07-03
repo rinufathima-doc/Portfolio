@@ -1,0 +1,18 @@
+#about{
+
+}
+.demo{
+
+}
+p{
+
+}
+@font-face {
+  font-family: myFirstFont;
+  src: url(fonts/GoogleSans-VariableFont_GRAD,opsz,wght.ttf);
+}
+.circle{
+  width:200;
+  height: 200;
+  border-radius:50% ;
+}
